@@ -2,7 +2,7 @@
 [Minecraft] Configs from Spigot core
 
 
-<img src="releases/download/1.0/ConfigLibrary.jar" data-canonical-src="https://img.shields.io/github/downloads/Ferius057/SpigotConfigLibrary/total?color=%23FF0000&label=download%20jar&style=flat-square" style="max-width:100%;">
+<img src="https://github.com/Ferius057/SpigotConfigLibrary/releases/download/1.0/ConfigLibrary.jar" data-canonical-src="https://img.shields.io/github/downloads/Ferius057/SpigotConfigLibrary/total?color=%23FF0000&label=download%20jar&style=flat-square" style="max-width:100%;">
 
 ----------------------------------------------------------------------------------------------
 
