@@ -1,10 +1,29 @@
 # SpigotConfigLibrary
 [Minecraft] Configs from Spigot core
 
-<a href="https://github.com/Ferius057/SpigotConfigLibrary/releases/download/1.0/ConfigLibrary.jar"><img alt="download" src="https://img.shields.io/github/downloads/Ferius057/SpigotConfigLibrary/total?color=%2300FF00&label=download%20jar&style=flat-square"></a>
-
 ----------------------------------------------------------------------------------------------
+### Dependencies | Зависимости
+## Maven
+```xml
+<dependency>
+  <groupId>com.google.guava</groupId>
+  <artifactId>guava</artifactId>
+  <version>29.0-jre</version>
+</dependency>
 
+<dependency>
+  <groupId>commons-lang</groupId>
+  <artifactId>commons-lang</artifactId>
+  <version>2.5</version>
+</dependency>
+
+<dependency>
+  <groupId>org.yaml</groupId>
+  <artifactId>snakeyaml</artifactId>
+  <version>1.27</version>
+</dependency>
+ ```
+----------------------------------------------------------------------------------------------
 ### English
 - This is a cut-out piece of config code from the Spigot core.
 - You can use it for convenience.
@@ -12,4 +31,5 @@
 
 ### Russian
 - Это вырезанный кусок кода конфигов из ядра Spigot.
+- Вы можете использовать его для удобства.
 - *Код был просто вырезан, изменяйте его сами, код я приложил к репозиторию.*
